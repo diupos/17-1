@@ -1,0 +1,23 @@
+.background {
+	background-color: green;
+	height: 800px;
+}
+.flex {
+	display: flex
+}
+.mgleft {
+	margin-left: 150px
+}
+.width {
+	background: white;
+	width: 400px;
+}
+.red {
+	background: red
+}
+.paddingtop {
+	padding-top: 50px;
+}
+h1 {
+	margin-left: 200px;
+}
